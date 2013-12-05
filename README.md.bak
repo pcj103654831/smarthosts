@@ -21,4 +21,3 @@ SmartHosts不会在Hosts中加入来路不明的IP，所有IP都处于官方服�
 某些网站需要您使用https方式打开，例如:
 
 Facebook: https://www.facebook.com
-asdasd
